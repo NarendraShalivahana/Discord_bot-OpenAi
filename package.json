@@ -10,7 +10,7 @@
     "dev": "nodemon run ./app.js",
     "curr": "nodemon run ./src/actions.js"
   },
-  "author": "Parth Gupta",
+  "author": "Narendra kummari",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.11.0",
